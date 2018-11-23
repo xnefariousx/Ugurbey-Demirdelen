@@ -98,3 +98,8 @@ Upload it along with this file.
 
 You might need a file while doing this, it also is on the Drive!
 """
+https://github.com/xnefariousx/Ugurbey-Demirdelen/blob/master/hokumodo.jpg     | Style Transfered Image
+
+https://github.com/xnefariousx/Ugurbey-Demirdelen/blob/master/komodo.jpg                | Original Image
+    
+https://github.com/xnefariousx/Ugurbey-Demirdelen/blob/master/hokusai-greatwaveofkanagawa.jpeg    | Style Implement
