@@ -86,7 +86,7 @@ for numbers in l:
 
 """Check the PDF on the Drive and calculate the neurons. Put all neurons and weights in python and do the calculation with them."""
 
-
+print((0.87 * 0.12) + (0.87 * 0.06) + (0.87 * 0.06) + (0.87 * 0.76 ))
 
 
 
